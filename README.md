@@ -3,3 +3,4 @@ The intent is to retain the OTG/DRP functionality of the Mini0B port while updat
 The "Single Port" design is intended to replace the Mini-B connector with a Type-C connector in situ, with minimal modification needed outide of removing the origial Mini-B port.
 The "Dounle Port" design is intended as an adapter, plugging into the existing Mini-B connector, and bring the host functionality to the Type-A port, and the device to Type-C.
 
+![PCB Concept 1](PCB_Concept_1.png)
