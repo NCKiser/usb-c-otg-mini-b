@@ -1,0 +1,8 @@
+Id,Designator,Package,Quantity,Designation,Supplier and ref
+1,U2,X2QFN,1,TUSB320LIRWBR,Texas Instruments PN: TUSB320L
+2,D1,SOD-123,1,1N4148,
+3,J5,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,USB_C_Receptacle_USB2.0,HRO Type C 31 M 12
+5,C1,0603_1608Metric,1,100n,
+6,R4,0603_1608Metric,1,900k,
+7,R3,0603_1608Metric,1,200k,
+8,"R6,R7,R5",1206_3216Metric,3,0 Ohm,
